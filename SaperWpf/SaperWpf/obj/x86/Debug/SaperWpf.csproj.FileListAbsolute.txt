@@ -1,0 +1,22 @@
+C:\Users\никита\AppData\Local\Temporary Projects\SaperWpf\bin\Debug\SaperWpf.exe
+C:\Users\никита\AppData\Local\Temporary Projects\SaperWpf\bin\Debug\SaperWpf.pdb
+C:\Users\никита\AppData\Local\Temporary Projects\SaperWpf\obj\x86\Debug\MainWindow.baml
+C:\Users\никита\AppData\Local\Temporary Projects\SaperWpf\obj\x86\Debug\MainWindow.g.cs
+C:\Users\никита\AppData\Local\Temporary Projects\SaperWpf\obj\x86\Debug\App.g.cs
+C:\Users\никита\AppData\Local\Temporary Projects\SaperWpf\obj\x86\Debug\SaperWpf_MarkupCompile.cache
+C:\Users\никита\AppData\Local\Temporary Projects\SaperWpf\obj\x86\Debug\SaperWpf.g.resources
+C:\Users\никита\AppData\Local\Temporary Projects\SaperWpf\obj\x86\Debug\SaperWpf.Properties.Resources.resources
+C:\Users\никита\AppData\Local\Temporary Projects\SaperWpf\obj\x86\Debug\SaperWpf.csproj.GenerateResource.Cache
+C:\Users\никита\AppData\Local\Temporary Projects\SaperWpf\obj\x86\Debug\SaperWpf.exe
+C:\Users\никита\AppData\Local\Temporary Projects\SaperWpf\obj\x86\Debug\SaperWpf.pdb
+D:\work\c#\SaperWpf\SaperWpf\obj\x86\Debug\SaperWpf.exe
+D:\work\c#\SaperWpf\SaperWpf\obj\x86\Debug\SaperWpf.pdb
+D:\work\c#\SaperWpf\SaperWpf\bin\Debug\SaperWpf.exe
+D:\work\c#\SaperWpf\SaperWpf\bin\Debug\SaperWpf.pdb
+D:\work\c#\SaperWpf\SaperWpf\obj\x86\Debug\MainWindow.baml
+D:\work\c#\SaperWpf\SaperWpf\obj\x86\Debug\MainWindow.g.cs
+D:\work\c#\SaperWpf\SaperWpf\obj\x86\Debug\App.g.cs
+D:\work\c#\SaperWpf\SaperWpf\obj\x86\Debug\SaperWpf_MarkupCompile.cache
+D:\work\c#\SaperWpf\SaperWpf\obj\x86\Debug\SaperWpf.g.resources
+D:\work\c#\SaperWpf\SaperWpf\obj\x86\Debug\SaperWpf.Properties.Resources.resources
+D:\work\c#\SaperWpf\SaperWpf\obj\x86\Debug\SaperWpf.csproj.GenerateResource.Cache

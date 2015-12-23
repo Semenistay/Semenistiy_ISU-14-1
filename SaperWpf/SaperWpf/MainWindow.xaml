@@ -1,0 +1,9 @@
+﻿<Window x:Class="SaperWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="326" Width="653" Loaded="Window_Loaded" Name="MyWindow">
+    <WrapPanel Name="MainWrap">
+    <WrapPanel Height="201" Name="wrapPanel1" Width="306"></WrapPanel>
+        <WrapPanel Height="169" Name="wrapPanel2" Width="226" />
+    </WrapPanel>
+</Window>
